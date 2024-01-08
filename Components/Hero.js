@@ -12,7 +12,7 @@ const Hero = () => {
         <h1 className='text-5xl font-bold text-center mb-6'>
             Unleashing the Next Generation of Card Solutions
         </h1>
-        <h1 className='text-center mb-5'>
+        <h1 className='text-center mb-3'>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore.
 
         </h1>
