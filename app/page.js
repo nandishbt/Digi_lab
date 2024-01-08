@@ -14,6 +14,9 @@ import { CiLock } from "react-icons/ci";
 import React from 'react'
 import Feature1 from '@/Components/Feature1'
 import Smallbox2 from '@/Components/Smallbox2'
+import Testimonal from '@/Components/Testimonal'
+import Call from '@/Components/Call'
+import Footer from '@/Components/Footer'
 
 
 const page = () => {
@@ -44,6 +47,11 @@ const page = () => {
     <Smallbox2  stats="$73 Million" heading = "Transactions"/>
     <Smallbox2  stats="2.0" heading = "Latest Vesrion"/>
     </div>
+
+    <Testimonal/>
+    <Call/>
+    <Footer />
+    
     
     
 
