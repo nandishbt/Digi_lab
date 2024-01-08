@@ -13,7 +13,7 @@ const Features_ = () => {
 
         </h1>
         <div className='flex items-center justify-center gap-2 text-purple-950 font-semibold mt-10'>
-            <h1 className='text-center '>Compare all pro features</h1>
+            <button className='text-center'>Compare all pro features</button>
             <GoArrowRight />
         </div>
     </div></div>

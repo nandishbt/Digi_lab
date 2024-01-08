@@ -12,7 +12,8 @@ import { CiLock } from "react-icons/ci";
 
 
 import React from 'react'
-import Medium from '@/Components/Medium'
+import Feature1 from '@/Components/Feature1'
+import Smallbox2 from '@/Components/Smallbox2'
 
 
 const page = () => {
@@ -34,7 +35,15 @@ const page = () => {
     </div>
 
     <Features_ />
-    <Medium />
+    
+    <Feature1 />
+
+    <div className='flex items-center justify-between ml-10 mr-10 mt-20'>
+    <Smallbox2  stats="2 Million" heading = "Customers"/>
+    <Smallbox2  stats="1K" heading = "Downloads"/>
+    <Smallbox2  stats="$73 Million" heading = "Transactions"/>
+    <Smallbox2  stats="2.0" heading = "Latest Vesrion"/>
+    </div>
     
     
 
