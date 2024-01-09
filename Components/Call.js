@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { PiHeadphonesLight } from "react-icons/pi";
 import { GoCreditCard } from "react-icons/go";

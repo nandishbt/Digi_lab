@@ -1,10 +1,11 @@
+'use client'
 import React from 'react'
 import { SlArrowDown } from "react-icons/sl";
 import { FiLogIn } from "react-icons/fi";
 
 const NavBard = () => {
   return (
-   <div className='w-[1440px] border-solid border-2 border-slate-400 flex justify-center  items-center '>
+   <div className='w-full border-solid border-2 border-slate-400 flex justify-center  items-center '>
 
 <div className='flex justify-between items-center h-20 w-4/5 '> 
     

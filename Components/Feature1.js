@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { BsStars } from "react-icons/bs";
 import { CiCreditCard1 } from "react-icons/ci";

@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 
 const Card = ({Headline,text1,text2,text3,text4}) => {

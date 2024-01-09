@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 
 const Smallbox2 = ({stats ,heading}) => {

@@ -1,3 +1,4 @@
+'use client'
 import Announcement_bar from '@/Components/Announcement_bar'
 import Features_ from '@/Components/Features_'
 import Hero from '@/Components/Hero'
