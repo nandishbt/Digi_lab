@@ -6,7 +6,7 @@ const Hero = () => {
 
   return (
     <>
-    <div className=' w-full h-[23rem] flex justify-center items-start relative pt-6'> 
+    <div className=' w-[1440px] h-[23rem] flex justify-center items-start relative pt-6'> 
     <div className='w-[36rem] h-[22rem] pt-5 bg-fixed bg-center '  style={{ backgroundImage: 'url("https://i0.wp.com/techguruplus.com/wp-content/uploads/2021/10/Graph-Paper-Light-Blue-Lines.jpg?resize=653%2C1024&ssl=1")' }}>
         <h1 className='text-center mb-2 text-fuchsia-900 font-semibold tracking-wide text-xs'>Seamless  experiece</h1>
         <h1 className='text-5xl font-bold text-center mb-6'>

@@ -4,7 +4,7 @@ import { GoCreditCard } from "react-icons/go";
 
 const Call = () => {
   return (
-    <div className='w-1440 h-[364px] pt-[96px] pr-[80px] pb-[96px] pl-[80px] gap-8  flex items-center justify-center' >
+    <div className='w-[1440px] h-[364px] pt-[96px] pr-[80px] pb-[96px] pl-[80px] gap-8  flex items-center justify-center' >
         
     <div className='w-1/2'>
         <h1 className='mb-3 text-center text-4xl font-semibold '>Unlock  Limitless Possibilities with Our New Card solutions</h1>
