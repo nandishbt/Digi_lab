@@ -25,6 +25,7 @@ const page = () => {
   
   return (
     <>
+    <div className='container-fluid'>
     <Announcement_bar />
     <NavBard />
     <Hero />
@@ -55,7 +56,7 @@ const page = () => {
     
     
     
-
+    </div>
     
     </>
   )
