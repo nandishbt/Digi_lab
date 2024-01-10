@@ -4,8 +4,8 @@ import { GoArrowRight} from 'react-icons/go'
 
 const Features_ = () => {
   return (
-    <div className='container-fluid h-[23rem] flex justify-center items-start relative pt-12'> 
-    <div className='w-[36rem] h-[22rem] pt-5' >
+    <div className='container-fluid h-[23rem] flex justify-center items-start relative pt-12 '> 
+    <div className=' absolute w-[36rem] h-[22rem] pt-5' >
         <h1 className='text-4xl font-semiold text-center mb-6'>
             Elevating Card Programs with Cutting Edge Technology
         </h1>
