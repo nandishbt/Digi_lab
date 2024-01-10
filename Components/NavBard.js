@@ -5,12 +5,12 @@ import { FiLogIn } from "react-icons/fi";
 
 const NavBard = () => {
   return (
-   <div className='w-full border-solid border-2 border-slate-400 flex justify-center  items-center '>
+   <div className='container-fluid border-solid border-2 border-slate-400 flex justify-center  items-center '>
 
-<div className='flex justify-between items-center h-20 w-4/5 '> 
+<div className='container flex justify-between items-center h-20  '> 
     
     <h1 className='font-bold font-mono text-xl'>Mode UI</h1>
-    <div className='gap-8 flex tracking-wide font-semibold'>
+    <div className=' gap-8 flex tracking-wide font-semibold'>
         <button className='flex items-center justify-center gap-3'> Card access <SlArrowDown /></button>
         <button>Banking</button>
         <button>Processing</button>

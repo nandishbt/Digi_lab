@@ -12,7 +12,7 @@ const Feature1 = () => {
     
 
 
-    <div className='w-[1440px] h-[32rem]  m-5 flex gap-60 justify-center p-5'>
+    <div className='container-fluid h-[32rem]  m-5 flex gap-60 justify-center p-5'>
         <div className='w-[29rem] h - [29rem ] bg-slate-100 '>
             <img  className= "rounded bg-slate-200" src='/Images/mobile.png'/>
         </div>

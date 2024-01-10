@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const Logo_cloud = () => {
   return (
-    <div className='w-[1440px] h-40 flex items-center justify-center gap-12 '>
+    <div className='container-fluid h-40 flex items-center justify-center gap-5 '>
         <img className="w-28" src='/Images/nuxt.png'/>
         <img className="w-28" src='/Images/miro.png'/>
         <img className="w-28" src='/Images/lottiefiles.png'/>

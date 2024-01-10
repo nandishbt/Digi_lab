@@ -9,7 +9,7 @@ import { AiOutlineCopyrightCircle } from "react-icons/ai";
 
 const Footer = () => {
   return (
-    <div className='w-[1440px] h-[720px] pt-[96px] pr-[80px] pb-[96px] pl-[80px] border-t-[1px] gap-8'>
+    <div className='container-fluid h-[720px] pt-[96px] pr-[80px] pb-[96px] pl-[80px] border-t-[1px] gap-8'>
         <div className='w-full flex items-center justify-center mb-48'>
             <div className='w-1/2 text-center text-xl'>
                 <h1 className='text-2xl font-semibold mb-2'>ModeUI</h1>
